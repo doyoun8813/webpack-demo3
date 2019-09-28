@@ -1,0 +1,9 @@
+node_modules
+
+dist
+
+package-lock.json
+
+.idea
+
+#뺄 목록들 적어줌 깃에 안올라가는 파일,폴더들
